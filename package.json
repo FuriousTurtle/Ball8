@@ -1,0 +1,27 @@
+{
+  "name": "ball-8-package",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FuriousTurtle/Ball8.git"
+  },
+  "keywords": [
+    "ball",
+    "8",
+    "test"
+  ],
+  "author": "FuriousTurtle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FuriousTurtle/Ball8/issues"
+  },
+  "homepage": "https://github.com/FuriousTurtle/Ball8#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
